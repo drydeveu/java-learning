@@ -5,7 +5,7 @@ public class Arraybsp {
 
         // in Java zählt man:
         // 0 1 2 3 4 ...
-        
+
         String[] liste = {
                 "Gurken",
                 "Discord",

@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
         greeting(21);
-        bio("leandro", "schüler", "nordrhein-westfalen", 13);
+        bio("leandro", "schüler", "nordrhein-westfalen", 0101);
 
         }
 
